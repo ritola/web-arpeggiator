@@ -1,12 +1,20 @@
-# Prerequisites
+# Web arpeggiator
+
+MIDI apreggiator running in a web browser
+
+## Prerequisites
 
 * Node.js
 
-# Initialization
+## Initialization
 
-   npm install
+    npm install
 
-# Running
+## Running
 
-* Open index.html in web browser
+Compile JavaScript:
+
+    npm run browserify
+
+Open index.html in web browser
 
