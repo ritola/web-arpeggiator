@@ -1,0 +1,4 @@
+#inputs li.selected a { background-color: #eee }
+#inputs li a,
+#inputs li a:link,
+#inputs li a:visited { color: #000; text-decoration: none }
